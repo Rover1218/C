@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define MAX_EMPLOYEES 5
+#define MAX_EMPLOYEES 3
 
 struct Employee
 {
